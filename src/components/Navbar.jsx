@@ -38,7 +38,7 @@ function NavBar() {
       <Container>
         <Navbar.Brand href="/" className="d-flex">
             <h1 style={{ fontSize: "2.1em", paddingBottom: "20px",paddingTop:"20px"}}>
-             <strong className="purple">Anna.Portfolio</strong>
+             <strong className="purple">YevHen.Portfolio</strong>
           </h1>
         </Navbar.Brand>
         <Navbar.Toggle
